@@ -1,6 +1,6 @@
 ## PDF Rendering Worker
 
-[TOC]
+[toc]
 
 ## Installation
 ```bash
